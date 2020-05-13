@@ -7,11 +7,11 @@ public class CreateChannel {
         System.out.println("User is able to create channel");
         
         String s= "a";
-if(s.contains("a")){
-    System.out.println("contains");
-}else{
-    System.out.println("not");
-}
+         if(s.contains("a")){
+              System.out.println("contains");
+          }else{
+                System.out.println("not");
+                 }
         
         
 
