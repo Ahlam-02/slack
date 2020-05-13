@@ -6,5 +6,18 @@ public class CreateChannel {
 
         System.out.println("User is able to create channel");
 
+        ///changed from inteliji
+        int m =1;
+        int x =3;
+
+        if(m>x) {
+
+            System.out.println("good");
+        } else{
+                System.out.println("no");
+            }
+
+        }
+
     }
-}
+
