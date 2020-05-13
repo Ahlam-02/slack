@@ -9,8 +9,10 @@ public class CreateChannel {
         String s= "a";
          if(s.contains("a")){
               System.out.println("contains");
+
           }else{
                 System.out.println("not");
+
                  }
         
         
@@ -28,6 +30,8 @@ public class CreateChannel {
         
         // I DID ALL CHANGES FOR GITTING A CONFLICT
 
+        //git branch commend--->* master so you are in the activ branch
+        //git branch branch name---> creating a branch
         }
 
     }
